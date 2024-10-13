@@ -13,16 +13,17 @@ In this project, you’ll be creating a simple personal website using HTML and C
 5. Add your personal repo as the new remote:
     -   `git remote add origin https://github.com/<your-github-username>/<your-repo-name>.git`
     -   `git push origin main`
-6. Set up GitHub Pages.
-    -   Go to your repository on GitHub.
-    -   Navigate to the Settings tab.
-    -   Scroll down to the GitHub Pages section.
-    -   Under “Source,” select main branch and click Save.
-    -   Your website will be live at: `https://<your-github-username>.github.io/<your-repo-name>/` within a few minutes.
 
 ### Features to Complete:
 - 	Add your name, year, and major.
 -   Add your GitHub and LinkedIn profiles.
 -   Add a photo of yourself.
 -   Optionally, list some projects or technical skills to showcase on your portfolio.
+
+### GitHub Pages Set Up:
+-   Go to your repository on GitHub.
+-   Navigate to the Settings tab.
+-   Scroll down to the GitHub Pages section.
+-   Under “Source,” select main branch and click Save.
+-   Your website will be live at: `https://<your-github-username>.github.io/<your-repo-name>/` within a few minutes.
 
