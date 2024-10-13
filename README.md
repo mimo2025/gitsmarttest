@@ -6,9 +6,9 @@ By: Lauren Feldman and Mira Mohan
 In this project, you’ll be creating a simple personal website using HTML and CSS. Your task is to personalize the provided website template by adding your own information and making changes using Git, CLI, and GitHub. You’ll practice creating branches, committing changes, resolving merge conflicts, and managing pull requests.
 
 ### Tasks
-1. Clone the repository.
-2. Create a new branch with your name or feature (e.g., `feature-add-task`).
-3. Complete one of the following functions in `todo.py`.
+1. Create a new repo: Name it your-name-personal-website on GitHub.
+2. Clone the workshop files: `git clone https://github.com/<workshop-repo-url>.git`
+3. Navigate into the cloned directory: `cd <cloned-repo-folder>`
 4. Test your changes.
 5. Commit your changes with meaningful messages.
 6. Push your branch to GitHub and create a pull request.
