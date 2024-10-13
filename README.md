@@ -1,9 +1,9 @@
 # Git Smart: Mastering Version Control, CLI, and GitHub
 By: Lauren Feldman and Mira Mohan
 
-# Your Workshop Assignment: `Collaborative To-Do List App`
+# Your Workshop Assignment: `Personal Website Project`
 ## Overview
-This is a simple command-line to-do list app. Your task is to complete the missing functions, test them, and submit your changes by creating a new branch.
+In this project, you’ll be creating a simple personal website using HTML and CSS. Your task is to personalize the provided website template by adding your own information and making changes using Git, CLI, and GitHub. You’ll practice creating branches, committing changes, resolving merge conflicts, and managing pull requests.
 
 ### Tasks
 1. Clone the repository.
@@ -14,8 +14,8 @@ This is a simple command-line to-do list app. Your task is to complete the missi
 6. Push your branch to GitHub and create a pull request.
 
 ### Features to Complete:
-- Add a new task.
-- Mark a task as completed.
-- View all tasks.
-- Remove a task.
+- 	Add your name, year, and major.
+-   Add your GitHub and LinkedIn profiles.
+-   Add a photo of yourself.
+-   Optionally, list some projects or technical skills to showcase on your portfolio.
 
